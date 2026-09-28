@@ -1,1 +1,2 @@
 # DECI-FER-Model
+Facial expression recognition (FER) systems face challenges due to variations in individual identity. These identity features act as confounders, reducing the clarity of emotion specific representations. In this work, we reimplement the DICEFER (Decoupling Identity Confounders for Enhanced FER) model, which uses mutual information to disentangle identity from expression in facial images. Our report aims to explain the DICE-FER methodology step-by-step and display our understanding of it.
